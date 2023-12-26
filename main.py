@@ -8,7 +8,7 @@ from keyboards.inline.start import start_router
 from services.youtube_downloader import printVideo_res
 
 
-bot = Bot(token="5701644076:AAEEGzP1YeveckiPH1ZYK3mDaHgHQrtT5kg", parse_mode="HTML")
+bot = Bot(token="", parse_mode="HTML")
 
 
 async def main():
